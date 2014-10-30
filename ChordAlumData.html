@@ -1,0 +1,47 @@
+<!--
+    Authors:
+    David Hanle
+    Toby Baratta
+
+    Last updated May 16, 2014
+  -->
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Alumni Careers by Major</title> 
+    <style>
+
+      /* Defines style of borders and the opacity of the chords */
+      path.chord {
+          fill-opacity: .67;
+          stroke: #000;
+          stroke-width: .5px;
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+    <h1>Alumni Careers By Major</h1>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="Chord.js"></script>
+
+    <script>
+
+      /* Statistical Comments:
+         Our data set only shows the data collected by responses of alum to an official survey. It also discounts those with stated professions without stated vocations and those that listed no occupations; those two categories combined made up 10% of the responses given. 
+         Other things of note would be that Computer Science and Gender, Women, and Sexualities Studies (found under the Independent Majors/Other) are newer majors and thus have less data on those majors. Computer science before it was a major was included in the math department, which may account for the amount of computing professionals from the math major.
+      */
+
+      /* Call the createGraph function on the given dataset */
+      createGraph("Alumni Career Paths By Major", chordParse);
+
+    </script>
+
+  </body>
+</html>

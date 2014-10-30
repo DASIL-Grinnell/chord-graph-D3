@@ -1,0 +1,41 @@
+[
+  ["Alumni","","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Careers","Social Sciences","Social Sciences","Social Sciences","Social Sciences","Social Sciences","Social Sciences","Independent","Humanities","Humanities","Humanities","Humanities","Humanities","Science","Science","Science","Science","Science","Science","Science"  ],
+  ["","","Law","Business and Management","Communications","Computer & Information Systems","Engineering","Finance and Insurance","Government/Politics/Social Sciences","Higher Education","Arts and Entertainment","Marketing","Medicine","Museum/Archival Science/Theology","Other Education","Public Service and Volunteer Work","Sciences and Math","Other","History","Anthropology","Economics","American Studies","Political Science","Sociology","Independent Majors and Other","Theatre & Music","Philosophy & Religious Studies","Languages","Art","English","General Science","Mathematics","Computer Science","Psychology","Physics","Chemistry","Biology"  ],
+  ["Careers","Law",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138,35,88,27,181,28,16,17,56,63,5,66,13,9,0,15,10,12,24  ],
+  ["Careers","Business and Management",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,28,88,11,45,20,10,20,18,57,26,43,10,20,4,23,7,15,20  ],
+  ["Careers","Communications",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,30,10,22,44,8,5,14,23,41,7,138,1,2,1,17,4,2,15  ],
+  ["Careers","Computer & Information Systems",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,17,33,13,16,2,3,21,22,34,12,23,14,55,63,18,23,11,17  ],
+  ["Careers","Engineering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,3,0,1,2,1,1,1,0,6,12,7,0,49,10,4  ],
+  ["Careers","Finance and Insurance",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,13,122,7,29,6,8,8,8,22,8,18,8,40,6,16,6,7,12  ],
+  ["Careers","Government/Politics/Social Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,35,32,9,69,24,12,2,12,43,3,14,3,10,0,23,3,10,15  ],
+  ["Careers","Higher Education",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,34,35,11,28,18,13,35,48,84,20,75,7,32,0,54,19,34,58  ],
+  ["Careers","Arts and Entertainment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,35,10,11,12,6,4,70,9,23,71,27,7,7,2,4,3,1,7  ],
+  ["Careers","Marketing",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,27,79,11,43,15,9,12,16,32,13,42,5,24,6,25,8,6,19  ],
+  ["Careers","Medicine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,55,12,12,25,37,12,15,35,74,17,40,66,10,1,102,8,141,250  ],
+  ["Careers","Museum/Archival Science/Theology",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,27,8,8,7,5,7,10,24,42,10,37,2,3,1,11,2,4,9  ],
+  ["Careers","Other Education",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,47,24,28,39,56,11,36,30,114,36,94,8,32,4,53,18,15,47  ],
+  ["Careers","Public Service and Volunteer Work",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,35,8,9,21,51,10,14,19,37,13,29,9,8,0,20,2,1,19  ],
+  ["Careers","Sciences and Math",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,17,3,0,0,2,4,4,5,13,2,7,8,15,1,9,22,83,114  ],
+  ["Careers","Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,40,33,12,29,18,5,11,30,38,40,30,5,20,3,29,5,14,41  ],
+  ["Social Sciences","History",138,56,60,16,2,30,30,52,28,37,43,43,74,24,3,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Social Sciences","Anthropology",35,28,30,17,2,13,35,34,35,27,55,27,47,35,17,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Social Sciences","Economics",88,88,10,33,5,122,32,35,10,79,12,8,24,8,3,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Social Sciences","American Studies",27,11,22,13,2,7,9,11,11,11,12,8,28,9,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Social Sciences","Political Science",181,45,44,16,3,29,69,28,12,43,25,7,39,21,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Social Sciences","Sociology",28,20,8,2,0,6,24,18,6,15,37,5,56,51,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Independent","Independent Majors and Other",16,10,5,3,1,8,12,13,4,9,12,7,11,10,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Humanities","Theatre & Music",17,20,14,21,2,8,2,35,70,12,15,10,36,14,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Humanities","Philosophy & Religious Studies",56,18,23,22,1,8,12,48,9,16,35,24,30,19,5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Humanities","Languages",63,57,41,34,1,22,43,84,23,32,74,42,114,37,13,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Humanities","Art",5,26,7,12,1,8,3,20,71,13,17,10,36,13,2,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Humanities","English",66,43,138,23,0,18,14,75,27,42,40,37,94,29,7,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","General Science",13,10,1,14,6,8,3,7,7,5,66,2,8,9,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Mathematics",9,20,2,55,12,40,10,32,7,24,10,3,32,8,15,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Computer Science",0,4,1,63,7,6,0,0,2,6,1,1,4,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Psychology",15,23,17,18,0,16,23,54,4,25,102,11,53,20,9,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Physics",10,7,4,23,49,6,3,19,3,8,8,2,18,2,22,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Chemistry",12,15,2,11,10,7,10,34,1,6,141,4,15,1,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Science","Biology",24,20,15,17,4,12,15,58,7,19,250,9,47,19,114,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  ],
+  ["Alumni","In",0  ],
+  ["Grinnell College Center for Careers, Life and Service: Survey of Alumni from 1970 to Today" ]
+]
