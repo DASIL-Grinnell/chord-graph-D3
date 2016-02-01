@@ -4,6 +4,8 @@ chord-graph-D3
 Contains the code for the Chord Graph and the demonstration done with the 
 Alum Data set from Grinnell College.
 
+# Instructions
+
 In order to use this code, the data must be given in a JSON format. The JSON 
 must be an MxM matrix of data, showing the links to and from separate parts of
 the chord graph. The first row and column must be strings giving the outer-most
@@ -33,7 +35,7 @@ settings, and then hit "CSV to JSON Array" at the bottom. If you are having
 errors with the data, check to make sure that under "Step Two" the First Row is 
 Column Names is not checked.
 
-This should result in data that looks like [this](Examples/fakeCSV.json). 
+This should result in data that looks like [this](Examples/fakeJson.json). 
 
 Once converted into a JSON, ensure that the numbers are treated as 
 numbers and do not have quotes around them, else the visualization will break. 
@@ -43,7 +45,7 @@ be to run the following command, and then use your output_file.json.
 Below are the directions to fix this for a Unix user--for a Windows user, see below.
 
 ```
-perl -ne 's/"(\d+)"/$1/g; print' fakeCSV.json > "Fake Data Example Presentation.json"
+perl -ne 's/"(\d+)"/$1/g; print' fakeJson.json > "Fake Data Example Presentation.json"
 ```
 However, if you are not on a Unix based machine, you can just go to: https://regex101.com/, 
 copy and paste your json data into the top "TEST STRING" box, and then paste the following
@@ -80,8 +82,10 @@ createGraph("Fake Data Example Presentation", chordParse);
 
 With a .html file with the code from the beginning and those final lines, you should be able to make the chord diagram visualize whatever you would like! See below for this output!
 
-!(Examples/ExampleFakeData.png)
+![Image of Graphic](Examples/ExampleFakeData.png)
 
 To debug your code or your JSON conversion, you can contact DASIL students as 
 dasil@grinnell.edu, or check the Console on your favorite browser. To change
 the colors or to add new features, one may edit the Chord.JS file. 
+
+##[Live Code](http://dasil.grinnell.edu/data-visualizations/alumni-data-chord-graph/)
