@@ -33,7 +33,7 @@ settings, and then hit "CSV to JSON Array" at the bottom. If you are having
 errors with the data, check to make sure that under "Step Two" the First Row is 
 Column Names is not checked.
 
-This should result in data that looks like [this](fakeCSV.json). 
+This should result in data that looks like [this](Examples/fakeCSV.json). 
 
 Once converted into a JSON, ensure that the numbers are treated as 
 numbers and do not have quotes around them, else the visualization will break. 
@@ -53,7 +53,7 @@ into the regular expression mox all together:
 s/"(\d+)"/$1/g
 ```
 
-This should look somewhat like [this](Example/Example Regex.png) image. Then, copy and paste the bottom box, under "SUBSTITUTION" and save that as a new .json file, where the name of the file is the name of what you want the header on the visualization to look like. So, I'd do something like "Fake Data Example Presentation.json" as the title for my file. 
+This should look somewhat like [this](Examples/Example Regex.png) image. Then, copy and paste the bottom box, under "SUBSTITUTION" and save that as a new .json file, where the name of the file is the name of what you want the header on the visualization to look like. So, I'd do something like "Fake Data Example Presentation.json" as the title for my file. 
 
 An example of what the data should now look like is [here]().
 
@@ -80,7 +80,7 @@ createGraph("Fake Data Example Presentation", chordParse);
 
 With a .html file with the code from the beginning and those final lines, you should be able to make the chord diagram visualize whatever you would like! See below for this output!
 
-!(Example/ExampleFakeData.png)
+!(Examples/ExampleFakeData.png)
 
 To debug your code or your JSON conversion, you can contact DASIL students as 
 dasil@grinnell.edu, or check the Console on your favorite browser. To change
