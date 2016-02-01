@@ -37,7 +37,7 @@ You can save it as a CSV just by using "Save As" within Excel and clicking on th
 
 
 Next, you convert to a JSON. My suggestion on how to do this would be to use 
-[this](http://www.convertcsv.com/csv-to-json.html) website, do not change any
+[this](http://www.convertcsv.com/csv-to-json.htm) website, do not change any
 settings, and then hit "CSV to JSON Array" at the bottom. If you are having
 errors with the data, check to make sure that under "Step Two" the First Row is 
 Column Names is not checked.
