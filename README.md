@@ -59,9 +59,9 @@ This should look somewhat like [this](Examples/Example Regex.png) image. Then, c
 
 An example of what the data should now look like is [here]().
 
-*Before you save and close this .json file, remove the extra commas after the 
+**Before you save and close this .json file, remove the extra commas after the 
 text on the second and last lines before the brackets. If you do not, the commas
-will appear within the visualization. *
+will appear within the visualization.**
 
 Given that dataset, all you need to do is create an .html file that pulls in 
 Chord.js. One can do that will the following lines of HTML.
