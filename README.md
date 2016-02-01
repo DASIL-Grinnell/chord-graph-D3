@@ -2,7 +2,14 @@ chord-graph-D3
 ==============
 
 Contains the code for the Chord Graph and the demonstration done with the 
-Alum Data set from Grinnell College.
+Alum Data set from Grinnell College. Below we have a live example of real data 
+displayed through the Chord Graph, and then we also have the Instructions, or 
+how to use this code without knowing anything about Programming to make your own
+Chord Graph. 
+
+##[Alumni Data Grinnell College Visualization Live](http://dasil.grinnell.edu/data-visualizations/alumni-data-chord-graph/)
+
+Information about the Alumni Data can be seen [here](More.md). 
 
 # Instructions
 
@@ -80,12 +87,11 @@ createGraph("Fake Data Example Presentation", chordParse);
 </script>
 ```
 
-With a .html file with the code from the beginning and those final lines, you should be able to make the chord diagram visualize whatever you would like! See below for this output!
+With a .html file with the code from the beginning and those final lines, you should be able to make the chord diagram visualize whatever you would like! See below for what this data
+should look like statically. 
 
 ![Image of Graphic](Examples/ExampleFakeData.png)
 
 To debug your code or your JSON conversion, you can contact DASIL students as 
 dasil@grinnell.edu, or check the Console on your favorite browser. To change
 the colors or to add new features, one may edit the Chord.JS file. 
-
-##[Live Code](http://dasil.grinnell.edu/data-visualizations/alumni-data-chord-graph/)
