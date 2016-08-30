@@ -1,0 +1,12 @@
+[
+ ["Alumni","","Business","Business","Performance","Teaching","Teaching","Other","",""  ],
+  ["","","Music","Other","All","Performance","Other","Other","",""  ],
+  ["Performance","Music",200,20,150,50,20,100,""," "  ],
+  ["Performance","History",10,10,5,10,5,50,"",""  ],
+  ["Performance","Dance",75,10,100,50,10,40,"",""  ],
+  ["Business","General",20,100,10,10,0,50,"",""  ],
+  ["Business","Tourism",10,25,0,5,10,30,"",""  ],
+  ["Business","Economics",50,70,50,0,100,100,"",""  ],
+  ["","","","","","","","","",""  ],
+  ["Data from a Fake College","","","","","","","","",""  ]
+]
